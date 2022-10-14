@@ -1,7 +1,7 @@
 # simpleStopwatch
 A simple stopwatch page.
 
-[Live Demo](https://scusate.github.io/demos/stickyNavbar)
+[Live Demo](https://scusate.github.io/demos/simpleStopwatch)
 
 ![Stopwatch Preview](/Stopwatch1.gif)
 
